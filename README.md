@@ -1,4 +1,4 @@
-<h1 align="center">Merhaba, ben Ömer Faruk! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+<h1 align="center">Hello, I'm Ömer Faruk! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 <h3 align="center">iOS & Mobile Developer </h3>
 
 <p align="center">
@@ -6,20 +6,20 @@
 </p>
 
 <p align="center">
-  <em>Bilgisayar Mühendisliği mezunuyum. Swift ve mobil teknolojiler üzerine odaklanıyorum.</em>
+  <em>As a computer engineer. I focus on Swift and mobile technologies..</em>
 </p>
 
 ---
 
-### 🚀 Hakkımda
+### 🚀 About Me
 
-- 🔭 Şu anda **iOS (Swift) ve Unity** projeleri üzerinde çalışıyorum.
-- 🌱 **Mobil Mimari ve UI/UX** konularında kendimi geliştiriyorum.
-- 📫 Bana ulaşın: **[LinkedIn](https://linkedin.com/in/farukyldrm01)**
+- 🔭 I'm curretly working on  **iOS (Swift) and Unity** projects.
+- 🌱 I am developing my skills in **Mobile Architecture and UI/UX**.
+- 📫 Contact me: **[LinkedIn](https://linkedin.com/in/farukyldrm01)**
 
 ---
 
-<h3 align="center">🛠 Kullandığım Teknolojiler ve Araçlar</h3>
+<h3 align="center">🛠 Technologies and tools i use</h3>
 
 <p align="center">
   <a href="https://developer.apple.com/swift/" target="_blank">
@@ -44,14 +44,14 @@
 
 ---
 
-<h3 align="center">📊 GitHub İstatistiklerim</h3>
+<h3 align="center">📊 GitHub Statistics</h3>
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=farukyldrm01&show_icons=true&locale=tr&theme=tokyonight" alt="farukyldrm01" height="180" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=farukyldrm01&show_icons=true&locale=tr&layout=compact&theme=tokyonight" alt="farukyldrm01" height="180" />
 </p>
 
-<h3 align="center">Bağlantıda Kalalım</h3>
+<h3 align="center">Stay connected</h3>
 <p align="center">
 <a href="https://linkedin.com/in/farukyldrm01" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
 <a href="https://instagram.com/farukyldrm01" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/></a>
