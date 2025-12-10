@@ -15,7 +15,6 @@
 
 - 🔭 Şu anda **iOS (Swift) ve Unity** projeleri üzerinde çalışıyorum.
 - 🌱 **Mobil Mimari ve UI/UX** konularında kendimi geliştiriyorum.
-- ⚽ Hobilerim: Futbol ve Arabalar.
 - 📫 Bana ulaşın: **[LinkedIn](https://linkedin.com/in/farukyldrm01)**
 
 ---
