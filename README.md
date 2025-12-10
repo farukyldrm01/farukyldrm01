@@ -55,5 +55,4 @@
 <p align="center">
 <a href="https://linkedin.com/in/farukyldrm01" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
 <a href="https://instagram.com/farukyldrm01" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/></a>
-<a href="https://www.youtube.com/c/farukyldrm01" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="youtube"/></a>
 </p>
